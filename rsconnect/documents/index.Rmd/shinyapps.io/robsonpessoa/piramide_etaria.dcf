@@ -1,0 +1,12 @@
+name: piramide_etaria
+title: piramide_etaria
+username:
+account: robsonpessoa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3486395
+bundleId: 4118950
+url: https://robsonpessoa.shinyapps.io/piramide_etaria/
+when: 1611094418.4576
+asMultiple: FALSE
+asStatic: FALSE
