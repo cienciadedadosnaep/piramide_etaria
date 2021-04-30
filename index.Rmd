@@ -157,8 +157,8 @@ renderPlotly({
     theme(axis.title.x = element_text(color = "gray",size = 18)) +
     theme(axis.text.x=element_text(color = "black", size=16, angle=0, vjust=.8, hjust=0.8)) +
     theme(axis.title.y = element_text(color = "gray",size = 18))+
-    theme(axis.text.y=element_text(size=16)) +
-    theme(axis.text = element_text(size = 16))  +
+    theme(axis.text.y=element_text(size=15)) +
+    theme(axis.text = element_text(size=16))  +
   #  theme(legend.text = element_text(size = 14)) +
   #  theme(legend.title = element_text(size = 16)) +
    theme(axis.title.y=element_blank(),
